@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/yamilaamal/" target="_blank">
+  <a href="https://www.linkedin.com/in/yamilaamal/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://medium.com/@yamalfatto" target="_blank">
+  <a href="https://medium.com/@yamalfatto" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Medium"/>
   </a>
 </p>
