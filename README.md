@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="mailto:yamalfatto@gmail.com" target="_blank">
+    <a href="mailto:yamalfatto@gmail.com?subject=I%20Love%20your%20GITHUB!&body=Hello,%20Yam..." target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
@@ -31,6 +31,13 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  </a>
+
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   </a>
