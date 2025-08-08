@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I’m Yamila Amal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h1>
 
-<p align="center">
-  <img src="https://github.com/TU-USUARIO/TU-REPO/blob/main/banner%20ym%202.png" alt="banner" width="100%" />
-</p>
+<img width="1584" height="396" alt="banner ym 2" src="https://github.com/user-attachments/assets/411d92a2-6a5b-42f3-9d03-320ead3e9f6e" />
+
 
 <p align="center">
   <a href="mailto:yamalfatto@gmail.com" target="_blank">
