@@ -92,4 +92,5 @@ while True:
     productos.append(producto)
 print("Lista de productos: ", productos)"""
 
+
 #Crea una lista con los números del 1 al 10 y muestra otra lista con sus cuadrados.
